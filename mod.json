@@ -1,0 +1,12 @@
+{
+    "geode": "3.0.0",
+    "gd": "2.2074",
+    "id": "yourname.saverequirementremove",
+    "version": "v1.0.0",
+    "name": "Save Requirement Remover",
+    "developer": "YourName",
+    "description": "Removes the limits and requirements for saving your GD account data.",
+    "repository": "",
+    "dependencies": [],
+    "settings": {}
+}
